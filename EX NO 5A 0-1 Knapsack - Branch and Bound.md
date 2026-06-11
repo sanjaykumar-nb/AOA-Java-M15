@@ -1,6 +1,6 @@
 # EX 5A 0/1 Knapsack Problem – Branch & Bound
 
-## DATE: 16-05-2026
+## DATE: 25-05-2026
 
 ## AIM:
 
